@@ -1,0 +1,186 @@
+    #js-message-bar-cookie-notice {
+        background-color: #509BF5;
+        color: white;
+        font-size: 0.8em;
+        height: 70px;
+        text-align: left;
+        padding-top: 10px;
+        padding-left: 100px;
+        padding-right: 100px;
+        display: block;
+        margin-bottom: 0px;
+        z-index: 1000;
+    }
+    
+    #js-message-bar-cookie-notice a:link {
+        text-decoration: none;
+        color: white;
+    }
+    
+    #cookie {
+        color: white;
+    }
+    
+    .navbar.navbar-inverse {
+        background-color: rgba(56, 22, 86, 0.95);
+        height: 100px;
+        display: block;
+    }
+    
+    .navbar-inverse .navbar-nav>li>a {
+        list-style: none;
+        color: white;
+    }
+    
+    .navbar-inverse :hover .navbar-nav>li>a :hover {
+        color: #7eb1b8;
+    }
+    
+    img {
+        height: 30px;
+        width: auto;
+    }
+    
+    ol {
+        list-style-type: none;
+    }
+    
+    body {
+        background-image: url(../libraryspotify.png);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+    }
+    
+    div.jumbotron {
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+    
+    .jumbotron {
+        background-color: transparent;
+        color: white;
+    }
+    
+    .carousel-inner {
+        text-align: center;
+    }
+    
+    h1 {
+        font-weight: bold;
+    }
+    
+    div.jumbotron.jumbotron-whats-on.bg-white {
+        background-color: white;
+        color: black;
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+    
+    .carousel-indicators {
+        margin-bottom: -200px;
+    }
+    
+    .jumbotron.container {
+        width: auto;
+        height: auto;
+        padding-right: 60px;
+    }
+    
+    .purple {
+        color: #7C25F8;
+        font-weight: 800;
+        font-size: 36px;
+        font-weight: 800;
+    }
+    
+    h2.purple {
+        font-size: 42px;
+    }
+    
+    .jumbotron p {
+        font-size: 16px;
+    }
+    
+    .albums img {
+        width: 200px;
+        height: 200px;
+    }
+    
+    .albums {
+        display: flex;
+        flex-flow: row wrap;
+        padding-left: 100px;
+        padding-top: 50px;
+        padding-bottom: 150px
+    }
+    
+    .lazy {
+        transform: rotate(30deg);
+        height: 600px;
+        width: auto;
+        padding-left: 450px;
+        margin-top: -400px;
+    }
+    
+    #iphone1 {
+        margin-left: 250px;
+        margin-top: -1100px;
+    }
+    
+    #iphone2 {
+        margin-left: 600px;
+        margin-top: -1000px;
+    }
+    
+    #iphone3 {
+        margin-left: 290px;
+        margin-top: -280px;
+    }
+    
+    #iphone4 {
+        margin-left: 700px;
+        margin-top: -800px;
+    }
+    
+    .jumbotron.jumbotron-albums.jumbotron-unique {
+        height: 600px;
+    }
+    
+    .blue {
+        color: #9bf0e1;
+        font-weight: 800;
+        font-size: 36px;
+        padding-bottom: 10px;
+    }
+    
+    h2.blue {
+        color: white;
+        font-size: 42px;
+    }
+    
+    p.promo {
+        font-weight: 500;
+    }
+    
+    .jumbotron.jumbotron-devices {
+        background-color: #232323;
+        text-align: center;
+        height: 700px;
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+    
+    .device-list.text-white {
+        display: flex;
+        align-items: flex-start;
+        list-style: none;
+    }
+    
+    li.animated.animatedFadeInUp {
+        padding-right: 30px;
+    }
+    
+    img.center-block.img-devices {
+        height: 300px;
+        width: auto;
+    }
